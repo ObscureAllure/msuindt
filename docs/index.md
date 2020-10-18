@@ -1,6 +1,6 @@
 <html>
 <body>
-    <p>😀😀 TESTING THIS</p>
+    <p>TESTING THIS</p>
    
   <div><script
    type="text/javascript"
