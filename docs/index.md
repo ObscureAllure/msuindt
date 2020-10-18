@@ -7,8 +7,10 @@
 <body>
     <p>😀😀 sssdfsdfsdf</p>
    
-  
-  <script type="text/javascript" src="https://github.com/ObscureAllure/msuindt/main/TEST00007195.js"></script>
+  <script
+   type="text/javascript"
+   src="https://combinatronics.com/ObscureAllure/msuindt/main/TEST00007195.js"
+></script>
 </body>
 
 </html>
