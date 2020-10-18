@@ -23,22 +23,22 @@ entryDate[0] = "10/18/2020"
 entryContent[0] = "TEST 1 <a href=\"../modules/132459\">Advising Information</a>&nbsp; <a href=\"http://www.abc.com\">Test External Link</a><br>"
 
 entryDate[1] = " 10/19/2020"
-entryContent[1] = ""
+entryContent[1] = "dsfgsdfgdsfgdfg"
 
 entryDate[2] = " 10/20/2020"
-entryContent[2] = ""
+entryContent[2] = "dsfgsdfgdsfgdfg"
 
 entryDate[3] = " 10/21/2020"
-entryContent[3] = ""
+entryContent[3] = "dsfgsdfgdsfgdfg"
 
 entryDate[4] = " 10/22/2020"
-entryContent[4] = ""
+entryContent[4] = "dsfgsdfgdsfgdfg"
 
 entryDate[5] = " 10/23/2020"
-entryContent[5] = ""
+entryContent[5] = "dsfgsdfgdsfgdfg"
 
 entryDate[6] = " 10/24/2020"
-entryContent[6] = ""
+entryContent[6] = "dsfgsdfgdsfgdfg"
 
 if (typeof display == "undefined") { var display = "date" }
 
