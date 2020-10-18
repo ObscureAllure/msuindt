@@ -9,7 +9,7 @@
    
   <script
    type="text/javascript"
-   src="https://combinatronics.com/ObscureAllure/msuindt/main/TEST00007195.js"
+   src="docs/DateWidget.js"
 ></script>
 </body>
 
